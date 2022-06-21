@@ -1,0 +1,310 @@
+App {
+    text-align: center;
+}
+
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+.App-header {
+    background-color: #1b1e24;
+    /* min-height: 100vh; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center;  */
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+.container-fluid {
+    width: 40%;
+    /* text-align: center; */
+    margin-left: 400px;
+
+
+
+
+}
+
+#form6{
+    /* width:70%; */
+    padding-top: 200px;
+    /* margin-left: 150px; */
+    background: #fff;
+    padding: 60px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;
+    margin-top: 100px;
+    padding-top: 23px;
+    padding-bottom: 8px;
+    width: 100%;
+}
+
+.form-control {
+    background-color: #eaf1f6;
+}
+
+#log {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#navbarText {
+    /* border: 2px solid black;  */
+    box-sizing: border-box;
+    display: inline;
+
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.bg-light {
+    box-shadow: -8px 8px #888888;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    margin-top: 20px;
+}
+
+h6 {
+    margin-left: 12px;
+}
+
+.fa {
+    padding-left: 12px;
+    padding-top: 12px;
+}
+
+#dropdownMenuButton1 {
+    border: 1px solid #ced4da;
+}
+
+#login-btn {
+    margin-top: 30px;
+}
+
+#forgot {
+    padding-left: 287px;
+    text-decoration: none;
+    color: #888888;
+    font-size: unset;
+}
+
+a {
+    text-decoration: none;
+}
+
+h5 {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.fa {
+    color: #000;
+
+}
+
+.nav-item {
+    font-size: medium;
+}
+
+#mail {
+    font-size: x-small;
+
+}
+
+#dropdownMenuButton1 {
+    display: inline-block;
+}
+
+#btn {
+    padding-left: 22px;
+    padding-right: 24px;
+
+}
+
+#btn1 {
+    padding-left: 22px;
+    padding-right: 24px;
+
+}
+h5#link1 {
+    margin-left: 20px;
+    margin-top: unset;
+}
+
+#example {
+    width: 82%;
+    margin-left: 18%;
+    margin-bottom: 2%;
+    margin-top: -9%;
+}
+
+#dropdownMenuButton1 {
+    background-color: #eaf1f6;
+}
+
+a#logo {
+    margin-left: -399px;
+
+}
+
+.Footer {
+    background-color: #1b1e24;
+    /* min-height: 100vh; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center;  */
+    /* font-size: calc(10px + 2vmin); */
+    color: white;
+    margin-top: 90px;
+}
+
+/* p {
+    padding-bottom: 34px;
+    padding-top: 34px;
+} */
+h1#log1 {
+    margin-left: 169px;
+    margin-top: 30px;
+}
+label.form-label1 {
+    margin-left: 46px;
+    margin-top: 25px;
+}
+button#\33 4 {
+    margin-left: 47px;
+    border: 1px solid #ced4da;
+    margin-top: 10px;
+}
+input#example {
+    margin-left: 117px;  
+    margin-top: -38px;
+    display: block;
+    width: 68%; 
+
+}
+input#example {
+    margin-left: 117px;  
+    margin-top: -38px;
+    display: block;
+    width: 68%; 
+
+}
+input#example {
+    margin-left: 117px;  
+    margin-top: -38px;
+    display: block;
+    width: 68%; 
+
+}
+input#example {
+    margin-left: 117px;  
+    margin-top: -38px;
+    display: block;
+    width: 68%; 
+
+}
+input#example1 {
+    /* margin-left: 117px; */
+    /* margin-top: -38px; */
+    display: block;
+    width: 100%;
+}
+#form1{
+        padding-top: 200px;
+        background: #fff;
+        padding: 60px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px 0px #000;
+        margin-top: 100px;
+        padding-top: 23px;
+        padding-bottom: 8px;
+        margin-right: 266px;
+        margin-left: 325px;
+    
+    
+}
+h6#log2 {
+    margin-left: 89px;
+    margin-top: 29px;
+    color: #ced4da;
+}
+h6#log3 {
+    margin-left: 194px;
+    color: #ced4da;
+}
+#login-btn {
+    padding: 13px;
+    width: 100%;
+    margin-left: 0px;
+    margin-bottom: 14px
+}
+input#example2 {    
+    width: 83%;
+}
+#h4 {
+    margin-left: -45px;
+    font-size: medium;
+    color: lightseagreen;
+}
+b {
+    margin-left: 281px;
+}
+#forg{
+    margin-left: 250px;
+
+}
+/* input#inputCity {
+    margin-left: 110px;
+    margin-top: -39px;
+}
+
+.col-md-3 {
+    flex: 0 0 auto;
+    width:35%;
+   
+    text-align: center;
+}
+#name{
+    width:35%;
+    margin-top: 200px;
+    text-align: center;
+
+}
+section {
+    margin-left: 300px;
+}
+.col-6 {
+    flex: 0 0 auto;
+    width: 71%;
+}
+.col-3 {
+    flex: 0 0 auto;
+    width: 35%;
+} */
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    padding-left: 60px;
+    padding-right: 60px;
+}

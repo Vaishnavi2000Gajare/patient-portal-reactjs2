@@ -1,0 +1,11 @@
+.card-body {
+    margin-bottom: 30px;
+}
+.table>:not(caption)>*>* {
+    padding: 0.5rem
+rem
+ 0.5rem;
+    background-color: #0b559f;
+    border-bottom-width: 1px;
+    box-shadow: inset 0 0 0 9999px var(--bs-table-accent-bg);
+}
